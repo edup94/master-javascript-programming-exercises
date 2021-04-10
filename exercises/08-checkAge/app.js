@@ -1,3 +1,8 @@
+var output = checkage('Adrian',22);
 function checkAge(name, age) {
-  // your code here
+    if (age <21) {
+        return true;
+    }
+    else return false;
 }
+console.log(output);

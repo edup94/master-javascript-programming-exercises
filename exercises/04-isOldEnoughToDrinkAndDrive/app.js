@@ -1,3 +1,5 @@
+var age = isOldEnoughToDrinkAndDrive(22);
 function isOldEnoughToDrinkAndDrive(age) {
-  // your code here
+    return false;
 }
+console.log(age);

@@ -1,3 +1,8 @@
+var myOjb = {
+
+};
+addProperty(myOjb, 'myProperty');
 function addProperty(obj, key) {
-  // your code here
+    
 }
+console.log(myOjb.myProperty);
